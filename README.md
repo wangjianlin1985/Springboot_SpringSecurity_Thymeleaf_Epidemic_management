@@ -18,6 +18,6 @@
 
 新建密切接触者界面：包含两部分，一是添加密切接触者的基本信息，点击下一步则跳转到添加隔离信息界面。
 
-技术环境： JDK1.8 SpringSecurity SpringBoot Mysql Mybatis Thymeleaf echarts
+## 技术环境： JDK1.8 SpringSecurity SpringBoot Mysql Mybatis Thymeleaf echarts
 
 管理员账户密码： admin/admin   用户账户密码： user/123
